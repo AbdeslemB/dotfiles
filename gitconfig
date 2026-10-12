@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = abdeslem.bouchemla1@gmail.com
+	name = abdeslem bouchemla
